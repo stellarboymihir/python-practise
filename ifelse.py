@@ -73,6 +73,6 @@ character = "JAy"
 if len(character) < 3:
     print("Name must be at least 3 characters.")
 elif len(character) > 50:
-    print("Name must be a maximum of 50 characters.")
+    print("Name must be a maxvalue of 50 characters.")
 else:
     print("Name looks good! ")

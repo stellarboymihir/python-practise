@@ -4,13 +4,13 @@
 # print(names[:])
 #
 # number =  [1, 46, 23, 53, 33, 77, 85,39, 45, 30]
-# max = number[0]
+# maxvalue = number[0]
 # for num in number:
-#     if num > max:
-#         max = num
+#     if num > maxvalue:
+#         maxvalue = num
 #
 #
-# print(max)
+# print(maxvalue)
 #
 # numbers = [5, 2, 1, 3, 9, 3]
 #

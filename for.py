@@ -43,10 +43,23 @@
 # for x_count in number:
 #     print("x" * x_count)
 
-number = [1, 1, 1, 1, 5]
+# number = [1, 1, 1, 1, 5]
 
-for x_count in number:
-    output = ''
-    for count in range(x_count):
-        output += 'x'
-    print(output)
+# for x_count in number:
+#     output = ''
+#     for count in range(x_count):
+#         output += 'x'
+#     print(output)
+#
+# numbers = [20, 4, 42, 53]
+# maxvalue = numbers[3]
+# for number in numbers:
+#     if number > maxvalue:
+#         maxvalue = number
+# print(maxvalue)
+
+from utils import find_max
+
+num = [1, 4, 5, 8]
+maxvalue = find_max(num)
+print(maxvalue(num))
