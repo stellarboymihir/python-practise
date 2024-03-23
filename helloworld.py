@@ -14,10 +14,10 @@
 
 # print(is_new_patient)
 #
-# name = input('What is your name? ')
-# print('Hi, ' + name)
+# first_name = input('What is your first_name? ')
+# print('Hi, ' + first_name)
 #
-# person_name = input('What is person\'s name? ')
+# person_name = input('What is person\'s first_name? ')
 # fav_color = input('Which is your favorite color? ')
 # print(person_name + ' likes ' + fav_color)
 

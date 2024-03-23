@@ -5,3 +5,9 @@ Email: john@gmail.com
 Phone: 12345
 
 customer = {}
+
+Parameters: are the holes or placeholders
+that we define in our function for receiving information
+
+Arguments: They are the actual pieces
+of information that we supply to these functions.

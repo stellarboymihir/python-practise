@@ -1,11 +1,11 @@
 # customer = {
-#     "name": "John Smith",
+#     "first_name": "John Smith",
 #     "age": 30,
 #     "is_Verified": True
 # }
 #
-# customer["name"] = "Jack Smith"
-# print(customer["name"])
+# customer["first_name"] = "Jack Smith"
+# print(customer["first_name"])
 # print(customer.get("is_Verified"))
 #
 # customer["birthdate"] = "Sept 30 2000"
