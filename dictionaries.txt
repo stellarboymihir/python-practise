@@ -1,0 +1,7 @@
+key value pairs {}
+
+Name: John Smith
+Email: john@gmail.com
+Phone: 12345
+
+customer = {}
